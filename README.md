@@ -1,4 +1,4 @@
-# AI Project Spring 2023: The Pac-Man Project from Berkley's Intro to AI course
+# AI Project Spring 2023: The Pac-Man Project from Berkeley's Intro to AI course
 
 ## Overview
 The [Pac-Man Projects, developed at UC Berkeley,](http://ai.berkeley.edu) explore AI concepts by designing intelligent agents for the classic Pac-Man game. It serves as a hands-on platform for experimenting with search algorithms, adversarial strategies (like minimax), reinforcement learning, and probabilistic inference. These techniques allow Pac-Man to efficiently navigate mazes, evade ghosts, and maximize rewards while applying fundamental AI algorithms to real-world problems.
